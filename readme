@@ -1,0 +1,7 @@
+npm init -y //create npm app
+create files listed
+npm i(nstall) @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript webpack 
+  webpack-cli webpack-dev-server babel-loader react react-dom @types/node @types/react @types/react-dom @types/jest 
+  //create node-module dependencies.
+
+npm start
